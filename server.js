@@ -34,7 +34,7 @@ app.use(authRoutes);
 app.use(userRoutes);
 app.use(expenseRoutes);
 
-const port = process.env.port || 27017;
+const port = process.env.port || 3000;
 app.listen(port, function () {
   console.log(`Server Listening on http://localhost:${port}`);
 });
