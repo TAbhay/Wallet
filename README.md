@@ -27,4 +27,11 @@ cd frontend
 npm start
 ```
 
+![dashboard](./snaps/dashboard.jpg)
+![dashboard](./snaps/edit.jpg)
+![login](./snaps/charts.jpg)
+![screen](./snaps/register.jpg)
+![screen](./snaps/login.jpg)
+![screen](./snaps/paginate.jpg)
+
 ## Still Working

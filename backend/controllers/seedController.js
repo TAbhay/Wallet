@@ -10,6 +10,7 @@ const createRandomExpense = (category, userId, account) => {
       amount: faker.finance.amount(),
       note: faker.random.words(),
       user: userId,
+      incurred_ons:faker.date.recent()
     };
   };
   
