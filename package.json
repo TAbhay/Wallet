@@ -7,8 +7,7 @@
     "start": "node backend/server.js",
     "server": "nodemon backend/server.js --ignore frontend",
     "client": "npm start --prefix frontend",
-    "dev": "concurrently \"npm run server\" \"npm run client\"",
-    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm instal --prefix frontend && npm run build --prefix frontend "
+    "dev": "concurrently \"npm run server\" \"npm run frontend\"",
   },
   "author": "TAbhay",
   "license": "ISC",
