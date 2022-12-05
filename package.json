@@ -6,8 +6,7 @@
   "scripts": {
     "start": "node backend/server.js",
     "server": "nodemon backend/server.js --ignore frontend",
-    "client": "npm start --prefix frontend",
-    "dev": "concurrently \"npm run server\" \"npm run frontend\"",
+    "client": "npm start --prefix frontend"
   },
   "author": "TAbhay",
   "license": "ISC",
