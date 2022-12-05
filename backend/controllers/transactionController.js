@@ -25,7 +25,7 @@ const addTransaction = asyncHandler(async (req, res) => {
     note:note,
     user: req.user.id
   });
-
+  
   return res.status(201).json(newTransaction);
 
 
