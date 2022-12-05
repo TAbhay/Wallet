@@ -44,12 +44,12 @@ function Dashboard() {
   const handleChart = () => { 
     setChart(true) 
     setHist(false)
-    console.log(chart,"chart")
+    // console.log(chart,"chart")
    }
   const handleHistory = () => { 
     setHist(true)
     setChart(false)
-    console.log(chart,"Hist")
+    // console.log(chart,"Hist")
    }
   return (
     <>
