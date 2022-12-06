@@ -7,6 +7,7 @@ Register / Login / Logout, Browse / Create / Edit / Delete, GET / POST / PUT / D
 Visualize your expense and income using charts.
 
 Visit - : https://wallet-v0tz.onrender.com/
+Cyclic -: https://nice-pink-tick-kit.cyclic.app/
 
 #Demo email and password
 
