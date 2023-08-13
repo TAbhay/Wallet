@@ -1,4 +1,5 @@
 # Wallet
+## Expense Tracker
 
 A user-friendly web application which can track the daily income & expense of the user.
 Get started with your expense and income trackig in few clicks.
